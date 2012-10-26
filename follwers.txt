@@ -467,6 +467,7 @@ messl
 Mestre_Chuck
 mhAuo06
 michaelzouzou
+MichelleArendal
 MichelleMista
 Mikas_Teranoes
 Mikkapilger
@@ -542,7 +543,6 @@ piso_hero2010
 Pixelfish
 pixeliris
 pixeltwisting
-PizzaChicago_CA
 PlabanKabiraj
 PLUNDERCodes
 pnk3939

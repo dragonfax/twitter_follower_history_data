@@ -164,7 +164,6 @@ clove
 cmagsaysay
 CODA_ME
 comprafdachina
-ConnollysCA
 corey_latislaw
 corihemmah
 cowelsimon1
@@ -229,6 +228,7 @@ elprenc_1000
 ElsheAnxCurup
 elsosobroso
 elza_roza
+emoore
 Ennis9
 episod
 EricaAmerica
@@ -263,7 +263,7 @@ FrancieMahmod93
 Francisca
 FreedomPartyNat
 fridasilitonga
-friends_news2
+friend_news2
 frost
 fruizperman
 fukthesehater
@@ -637,7 +637,6 @@ soehtutnaing
 sof
 SomyaGomes
 SoulSearching3
-sprackstudio
 squishable
 sre
 sreeharimallesh

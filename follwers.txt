@@ -15,6 +15,7 @@ _retwee
 20Confessions
 2861995
 39THSTREETBOYZ
+42
 4doper
 72Met
 788554454
@@ -541,7 +542,6 @@ OneTrueJakester
 onyx
 OperationSLives
 ozhakikitwit
-Ozzmak
 p_paran
 pablo2om0
 pakpahansmith
@@ -616,6 +616,7 @@ Sagita_Blue
 saidbd
 SaimaAshraf4
 SalbiahYunus
+SAM_MACALISTHER
 SammanC
 Samu_tweetz
 samyabdElwahab1

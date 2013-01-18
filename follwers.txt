@@ -150,7 +150,6 @@ capttwinky
 CarlosGil83
 carol
 CascadeM
-Cassandrapedia
 ccris_guedes
 cefi
 Celebrate
@@ -189,6 +188,7 @@ CXNut
 cyunkshuze
 d_paramex
 D_seet
+dac
 dafthiin
 dalsuk1
 DamronSpearlie
@@ -323,7 +323,6 @@ Heuller_Bessa
 heyana_motta
 heyme
 hindorfomungoa
-HMCoalition
 Hridoybd1
 ib4show
 ibrahimeroglu8
@@ -479,6 +478,7 @@ mazenra
 mdgrabbi
 Meiza10
 MelindaCampero
+MelodyCrexendo
 MennahOmer
 MENSAHEDWARD
 merisande
@@ -656,12 +656,12 @@ Sigitharyadi
 Signe_CFO
 silencetoleave
 sitikhadijahros
+SleepTipsSnJose
 smavani
 Smelling_Colors
 smetalloriginal
 snikolov
 socialguruhq
-SocialinSanJose
 soehtutnaing
 sof
 SoulSearching3
@@ -696,6 +696,7 @@ thachichetooz
 THAM65
 thapa_gaurav
 The_Grubbery
+the_Plando
 Thedrawthing
 ThePulpCast
 ThePulseSync

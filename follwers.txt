@@ -89,7 +89,6 @@
 19450626	cherryterror
 19520093	MusicJodiDoidge
 19757487	papertigerss
-19823750	Dropcam
 20019840	lookinafar
 20028099	sylvialam
 20189847	ramenlabs
@@ -210,6 +209,7 @@
 151960313	anoop
 152004276	rockyboy60
 152890092	bima_2010
+158866051	1dayremodels
 159726466	MaverickJ43
 160880447	sasi21
 161497318	matt_maurer
@@ -805,7 +805,6 @@
 996676116	brickletickle
 998973914	mirandaholdenad
 1019064306	HFCPictures
-1020931339	WinZipDave
 1057004160	johnjacob2020
 1076186832	Simagjqz
 1082347609	DaRealRiddler

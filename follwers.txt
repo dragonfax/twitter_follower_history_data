@@ -265,7 +265,6 @@
 227266326	JJJuuly
 228925627	Roach
 229701070	kumarajagadish
-231159782	kurtis0og
 231327343	Jnike546
 231704793	mazenra
 231910443	amymiller
@@ -574,7 +573,6 @@
 389347240	neelaka_sm
 389504706	mitukhatun37
 389907509	xhostplus
-390109220	TBAStartups
 390142820	CascadeM
 390484605	Gabiiiee_Chete
 390604835	wiwit2pradita
@@ -748,7 +746,6 @@
 586810548	ghost
 588698487	beeghold101
 593724458	VilsonDa
-594725175	coderbits
 594977793	marcelo58721123
 595286024	NurseTanyaSam
 597072397	Miranda13_1D

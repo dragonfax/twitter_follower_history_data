@@ -265,6 +265,7 @@
 227266326	JJJuuly
 228925627	Roach
 229701070	kumarajagadish
+231159782	Kurtis_golloher
 231327343	Jnike546
 231704793	mazenra
 231910443	amymiller
@@ -472,7 +473,7 @@
 345546065	dekputry
 345857577	oh_rodr
 346245943	wenygomes
-346354025	iCapGroup
+346354025	iCapGrp
 346390918	Goldenholden98
 347587449	bunch_james
 348641374	ZullyArroCast
@@ -794,7 +795,6 @@
 898140006	ZendeskDevTeam
 933755203	LYKHANHCOLTD
 939189205	0549723149
-949309058	zuxepyxe
 950519348	sacchan_valova1
 952166040	distractedriver
 954700207	katy2079397255
@@ -809,5 +809,4 @@
 1086362124	KhanyisaKunca
 1104521191	Duffy30Rock
 1114710865	KevinAvelar9
-1140193705	EternalBeautyMC
 1160911416	victorio619

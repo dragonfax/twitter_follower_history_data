@@ -103,7 +103,6 @@
 22891211	chanian
 23640904	emoore
 24157545	qwacky
-24426431	jaytrainerband
 24486553	_anirudh
 24796299	AllyCatastrophe
 25720832	cmagsaysay
@@ -242,6 +241,7 @@
 191264494	frost
 192030686	thesonjake
 192134331	RadarCowboy
+192296106	bruno_martuccii
 197303449	thachichetooz
 197550936	sachiog
 197977943	cadusinhomello
@@ -452,7 +452,6 @@
 338496808	AshokAdhikaree
 339157529	AlvaroColorado
 339410843	YolandoFeemster
-339838191	Mestre_Chuck
 340051664	GameforKids
 340242130	kamagung
 340316354	triznayulia
@@ -616,7 +615,6 @@
 409640973	ozhakikitwit
 409975137	timubanggo
 410316171	erik_maulana1
-410748614	yusleydigonzale
 412093833	apurvashedge
 412715336	Celebrate
 413177929	ahme78
@@ -814,5 +812,6 @@
 1086362124	KhanyisaKunca
 1104521191	Duffy30Rock
 1114710865	KevinAvelar9
+1159452102	Marciapqwb
 1160911416	victorio619
 1249201358	Alysedwpc

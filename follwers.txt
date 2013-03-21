@@ -83,6 +83,7 @@
 18601330	steve_hoffer
 18657690	kencheeto
 18707866	messl
+18825184	jmedwards
 19051365	Bubblepipemedia
 19191739	januarymoon1
 19196015	etanlubeck
@@ -90,6 +91,7 @@
 19450626	cherryterror
 19520093	MusicJodiDoidge
 19757487	papertigerss
+19958119	HobbyGameDev
 20019840	lookinafar
 20028099	sylvialam
 20189847	ramenlabs
@@ -817,4 +819,5 @@
 1114710865	KevinAvelar9
 1159452102	Marciapqwb
 1160911416	victorio619
-1249201358	Alysedwpc
+1269122473	Alvinavbfu
+1277860777	TheCasengoBlog

@@ -389,7 +389,7 @@
 317020994	pio
 317434817	10limoYvon
 317496124	LaraAnahi
-317808680	GD_Itha48BW
+317808680	BwGD_Itha48
 318226841	imam_petet
 319092065	JanieliaC
 320452648	DuboisLisa
@@ -730,6 +730,7 @@
 542295643	tapiaamor
 543243234	funmazalive
 544673323	henriquepegorin
+545348308	SocialRugratSJC
 545755764	netycun
 551854284	estelasilvaj
 552597820	saffa92893684

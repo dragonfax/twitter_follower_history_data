@@ -84,7 +84,6 @@
 18601330	steve_hoffer
 18657690	kencheeto
 18707866	messl
-18825184	jmedwards
 19051365	Bubblepipemedia
 19191739	januarymoon1
 19196015	etanlubeck
@@ -109,6 +108,7 @@
 24157545	qwacky
 24486553	_anirudh
 24796299	AllyCatastrophe
+25462905	trinht
 25720832	cmagsaysay
 26195358	thinkingfish
 26272447	pixeliris
@@ -127,7 +127,6 @@
 34956740	janinda
 35543843	Lena_Feil
 36404067	laurmark
-37599351	thebenlandis
 37836873	LILBTHEBASEDGOD
 38524013	maryannerodis
 38708342	RobChiz
@@ -220,6 +219,7 @@
 161497318	matt_maurer
 163315408	gregperezo1
 164003532	TD
+165584740	39THSTREETBOYZ
 166152937	lfiian
 168214020	andreapapibiz
 169774285	corihemmah
@@ -387,7 +387,7 @@
 317020994	pio
 317434817	10limoYvon
 317496124	LaraAnahi
-317808680	BwGD_Itha48
+317808680	Mbak_Itha
 318226841	imam_petet
 319092065	JanieliaC
 320452648	DuboisLisa

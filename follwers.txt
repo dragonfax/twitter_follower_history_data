@@ -177,6 +177,7 @@
 98232969	Zanet1
 100891819	q4od
 101245972	ZiggyNL
+101792178	BirksRestaurant
 102128021	LIFESTYLETASTE
 104993233	auroracobalt
 106738160	shoplosgatos
@@ -315,7 +316,6 @@
 263580139	tjp03
 264887678	ElsheAnxCurup
 266392024	Guoie
-267122757	dirganandre
 267951833	elsosobroso
 269435540	smetalloriginal
 270107152	animondayz
@@ -352,6 +352,7 @@
 298503082	CAH
 298991391	Karolina5555
 300141828	Rani_rhand
+300173598	Mr_Hawkes
 302440945	DHIRAmboh
 302632179	Heuller_Bessa
 302723139	tania15011tania
@@ -711,6 +712,7 @@
 505697061	alhourriahE
 510016663	jamesdableo
 510155355	RobbySo
+516659864	CorkFoodFest
 521216286	SAZ00539454
 524209115	GomaaZamalek
 526122379	PriyaPriyaababu
@@ -729,7 +731,6 @@
 542295643	tapiaamor
 543243234	funmazalive
 544673323	henriquepegorin
-545348308	SocialRugratSJC
 545755764	netycun
 551854284	estelasilvaj
 552597820	saffa92893684
@@ -745,7 +746,6 @@
 569183201	delindaaae
 572007014	AlsedRady
 572525744	BrikmaxMassimo
-574394292	KeaneKitchensCA
 574857818	Kyle_Zahner
 575397641	CapetilloC
 578307624	fahadalmuterri
@@ -806,7 +806,6 @@
 939189205	0549723149
 950519348	sacchan_valova1
 952166040	distractedriver
-954700207	katy2079397255
 971088972	amoomeudog
 978992113	nest_fan
 981938203	mofidulislam13

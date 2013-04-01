@@ -54,7 +54,6 @@
 14986129	irondavy
 14987054	tf
 15013405	sabrina
-15063125	RobGonda
 15111848	lientm
 15112692	renocollective
 15202940	dbajoe
@@ -67,7 +66,6 @@
 15471211	aviwarner
 15761601	cefi
 16090023	danielauger
-16141418	Francisca
 16281124	THISWILLWORK
 16487505	corey_latislaw
 16672915	flavianv
@@ -177,7 +175,6 @@
 98232969	Zanet1
 100891819	q4od
 101245972	ZiggyNL
-101792178	BirksRestaurant
 102128021	LIFESTYLETASTE
 104993233	auroracobalt
 106738160	shoplosgatos
@@ -324,6 +321,7 @@
 272161437	Uber_SF
 272169436	Superman1001wd
 272326180	rosaimoet
+272344553	rahpsory
 272880457	walrit
 274241538	piso_hero2010
 277391955	happybirdy00
@@ -749,6 +747,7 @@
 572525744	BrikmaxMassimo
 574857818	Kyle_Zahner
 575397641	CapetilloC
+576732332	SpringSteve
 578307624	fahadalmuterri
 578933483	yagoub40
 582104982	YsgolBird
@@ -822,5 +821,6 @@
 1114710865	KevinAvelar9
 1160911416	victorio619
 1215021535	Zorapfrc
+1226831466	DambergersCA
 1269122473	Alvinavbfu
 1277860777	TheCasengoBlog

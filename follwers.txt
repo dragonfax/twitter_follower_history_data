@@ -41,7 +41,6 @@
 14124673	EricaAmerica
 14159823	kaoris
 14166407	benjohnston
-14247733	penryu
 14255640	onyx
 14388850	aud
 14445416	Motherfucker
@@ -114,7 +113,6 @@
 27269585	Matthew_Irby
 28841407	zhugef
 29096116	tanay
-29516755	CameraCinemas
 29579390	audacious
 30055761	lxmaier
 33167774	benoistrousseau
@@ -137,6 +135,7 @@
 45061189	h311b0y
 47809350	jenunifer
 52311224	MattsMunchies
+53757449	AdeTheux
 56488470	keller_jon
 59638618	misosoup
 60799877	Mukhlesmba
@@ -315,6 +314,7 @@
 263580139	tjp03
 264887678	ElsheAnxCurup
 266392024	Guoie
+266425968	antimoof
 267951833	elsosobroso
 269435540	smetalloriginal
 270107152	animondayz

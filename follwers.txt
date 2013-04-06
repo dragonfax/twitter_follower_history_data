@@ -1,5 +1,6 @@
 89	al
 150	stevej
+155	craigcalef
 344	Bob
 5827	mollydotcom
 11382	noahmittman
@@ -16,6 +17,7 @@
 5209921	gakuueda
 6008322	janechin
 6025712	tia_marie
+6777502	LaughAtlantis
 7296332	jonverve
 7298252	aheywood
 7305682	bshine
@@ -213,6 +215,7 @@
 151960313	anoop
 152004276	rockyboy60
 152890092	bima_2010
+157098328	PacificSymphony
 159726466	MaverickJ43
 160880447	sasi21
 161497318	matt_maurer
@@ -240,6 +243,7 @@
 188823228	picospardos7
 189460187	pnk3939
 190050419	sul6ano007
+190116749	BlakeWilliams__
 191264494	frost
 192030686	thesonjake
 192134331	RadarCowboy
@@ -748,7 +752,6 @@
 572525744	BrikmaxMassimo
 574857818	Kyle_Zahner
 575397641	CapetilloC
-576732332	SpringSteve
 578307624	fahadalmuterri
 578933483	yagoub40
 582104982	YsgolBird

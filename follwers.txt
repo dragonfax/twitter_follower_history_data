@@ -104,6 +104,7 @@
 22777809	American_Mason
 22891211	chanian
 23640904	emoore
+23723768	peterfisher
 24157545	qwacky
 24486553	_anirudh
 24796299	AllyCatastrophe
@@ -170,6 +171,7 @@
 92606521	nicolas
 92746359	afif_ctg09
 93713313	letsPRESTO
+95053991	super_subaroo
 95266520	DashingD3js
 96129506	reemograby
 96722229	stefan_will
@@ -448,6 +450,7 @@
 332655931	pakpahansmith
 332806883	chinnica1
 333116290	mhAuo06
+333241418	osebb
 334120388	twangsimonepi42
 336547653	nachita30
 336573434	xharizmaanugrah
@@ -693,7 +696,6 @@
 485458260	Jetlagin
 487611152	nderimgashi1
 488014092	FelippeFonseca_
-488342109	GamesShed
 490209011	psypsoft
 490339094	tandaraantonio
 491281319	pixeltwisting

@@ -20,7 +20,6 @@
 6777502	LaughAtlantis
 7296332	jonverve
 7298252	aheywood
-7305682	bshine
 7482182	michaelzouzou
 8812232	chexee
 8953072	gavinjoyce
@@ -118,7 +117,6 @@
 29096116	tanay
 29579390	audacious
 30055761	lxmaier
-33167774	benoistrousseau
 33406329	david95391
 33443369	danmanganmusic
 33696409	Quora
@@ -137,7 +135,6 @@
 42936339	BrettLaffel
 45061189	h311b0y
 47809350	jenunifer
-52311224	MattsMunchies
 53757449	AdeTheux
 56488470	keller_jon
 59638618	misosoup
@@ -223,7 +220,6 @@
 161497318	matt_maurer
 163315408	gregperezo1
 164003532	TD
-165584740	39THSTREETBOYZ
 166152937	lfiian
 168214020	andreapapibiz
 169774285	corihemmah

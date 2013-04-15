@@ -170,7 +170,7 @@
 91704031	leJDen
 92606521	nicolas
 92746359	afif_ctg09
-93713313	letsPRESTO
+93713313	letsPresto
 95053991	super_subaroo
 95266520	DashingD3js
 96129506	reemograby
@@ -199,6 +199,7 @@
 127875402	graficapirituba
 128172690	bettarih
 129216285	lamaladroite
+132749470	halcyoncorsair
 133463106	JanPettey
 134048516	toyosrg
 134769695	limatigaempat
@@ -279,6 +280,7 @@
 231327343	Jnike546
 231704793	mazenra
 231910443	amymiller
+232402605	EcoFriendlyEd
 233997051	fruizperman
 234946987	ever18_91
 236758179	tola1234
@@ -830,4 +832,3 @@
 1277860777	TheCasengoBlog
 1320428760	Shirleendno
 1327499828	Joycelyndzsz
-1328808248	HouseOfGenji

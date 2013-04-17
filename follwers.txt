@@ -168,7 +168,7 @@
 86216086	cdecaro
 89367306	crocutax2
 91119650	Samu_tweetz
-91704031	leJDen
+91704031	_jden
 92606521	nicolas
 92746359	afif_ctg09
 93713313	letsPresto
@@ -358,7 +358,7 @@
 295498610	Debashish62
 296071305	GypsyJewel
 296609877	AvChaca
-298450219	adelvia_fimi
+298450219	ondell_fiimii
 298503082	CAH
 298991391	Karolina5555
 300141828	Rani_rhand
@@ -398,7 +398,6 @@
 317020994	pio
 317434817	10limoYvon
 317496124	LaraAnahi
-317808680	Mbak_Itha
 318226841	imam_petet
 319092065	JanieliaC
 320452648	DuboisLisa
@@ -557,7 +556,6 @@
 374998315	ratna_fitriia
 376349370	edit_care
 376387097	estebitanio
-376503768	PeraltaNation
 376509678	miguelangelra64
 376615446	ArinaZaidhaIlma
 376746633	Nicole_Micallef
@@ -830,6 +828,7 @@
 1086362124	KhanyisaKunca
 1104521191	Duffy30Rock
 1114710865	KevinAvelar9
+1139290069	RT2PROMO
 1160911416	victorio619
 1277860777	TheCasengoBlog
 1320428760	Shirleendno

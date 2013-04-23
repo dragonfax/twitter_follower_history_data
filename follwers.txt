@@ -91,7 +91,6 @@
 19450626	cherryterror
 19520093	MusicJodiDoidge
 19757487	papertigerss
-19958119	HobbyGameDev
 20019840	lookinafar
 20028099	sylvialam
 20189847	ramenlabs
@@ -546,6 +545,7 @@
 368573586	lopesjoaov99
 369539278	Ennis9
 370107851	bogibogiA
+370284946	Shat_Bot
 371294724	CellyGolightly
 371650345	janierusty
 371808653	dalsuk1

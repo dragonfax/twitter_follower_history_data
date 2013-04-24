@@ -96,7 +96,6 @@
 20189847	ramenlabs
 20799885	c2
 20908789	nellieg0630
-21125274	Altimor
 21165339	susanbellfilm
 21462369	Ozzmak
 21598933	alexwriteshere
@@ -342,6 +341,7 @@
 281922694	asep_nugroho
 281969552	myrticeyxhsettl
 284161861	Ferk_0
+284447476	HomeConsignment
 284539747	csplasticsrgry
 287121709	ClickBeforeLick
 287181268	SHINSOOSEOK
@@ -756,7 +756,6 @@
 564902717	Thedrawthing
 564953222	yazminguadalu20
 565881021	shezi444
-569183201	delindaaae
 572007014	AlsedRady
 572525744	BrikmaxMassimo
 573888132	SJSharksTweet

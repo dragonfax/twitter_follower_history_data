@@ -491,7 +491,7 @@
 345546065	dekputry
 345857577	oh_rodr
 346245943	wenygomes
-346354025	iCapGrp
+346354025	iCapGroup
 346390918	Goldenholden98
 347587449	bunch_james
 348641374	ZullyArroCast
@@ -758,7 +758,6 @@
 565881021	shezi444
 572007014	AlsedRady
 572525744	BrikmaxMassimo
-573888132	SJSharksTweet
 574857818	Kyle_Zahner
 575397641	CapetilloC
 578307624	fahadalmuterri

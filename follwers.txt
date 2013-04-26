@@ -77,6 +77,7 @@
 17454341	laura
 17567314	ljpsfree
 17826951	amrithap
+18148120	shirleman
 18278364	laureninspace
 18307800	stonegao
 18414335	johncraig2
@@ -121,6 +122,7 @@
 29579390	audacious
 30055761	lxmaier
 30937949	oscartobar
+33258398	RoiText
 33406329	david95391
 33443369	danmanganmusic
 33696409	Quora

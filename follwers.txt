@@ -122,7 +122,6 @@
 29579390	audacious
 30055761	lxmaier
 30937949	oscartobar
-33258398	RoiText
 33406329	david95391
 33443369	danmanganmusic
 33696409	Quora
@@ -132,6 +131,7 @@
 35543843	Lena_Feil
 36404067	laurmark
 37836873	LILBTHEBASEDGOD
+38130138	1aushi
 38524013	maryannerodis
 38708342	RobChiz
 38709825	bpratap
@@ -141,6 +141,7 @@
 42936339	BrettLaffel
 45061189	h311b0y
 47809350	jenunifer
+49960147	dreasaez
 53757449	AdeTheux
 56488470	keller_jon
 59638618	misosoup
@@ -202,6 +203,7 @@
 127875402	graficapirituba
 128172690	bettarih
 129216285	lamaladroite
+131244058	chbearstar
 132749470	halcyoncorsair
 133463106	JanPettey
 134048516	toyosrg
@@ -283,7 +285,6 @@
 231327343	Jnike546
 231704793	mazenra
 231910443	amymiller
-232402605	EcoFriendlyEd
 233997051	fruizperman
 234946987	ever18_91
 236758179	tola1234
@@ -321,6 +322,7 @@
 261128446	MarkFlorentino
 261647057	lelessa12345678
 262286448	rafaelarmado
+262433758	PamDodrill
 262717797	jaiculito
 263512427	laservatana1
 263580139	tjp03
@@ -343,7 +345,6 @@
 281922694	asep_nugroho
 281969552	myrticeyxhsettl
 284161861	Ferk_0
-284447476	HomeConsignment
 284539747	csplasticsrgry
 287121709	ClickBeforeLick
 287181268	SHINSOOSEOK
@@ -835,3 +836,5 @@
 1160911416	victorio619
 1277860777	TheCasengoBlog
 1311340687	Yuntvjb
+1347546330	Irmgardscqt
+1377698544	JohnnieJODellJr

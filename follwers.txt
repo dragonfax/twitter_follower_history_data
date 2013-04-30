@@ -210,6 +210,7 @@
 134048516	toyosrg
 134769695	limatigaempat
 134901077	capttwinky
+138235096	RoamBurgers
 138671360	angie_bui
 139944110	vishrayne
 140683837	shivamk06
@@ -836,7 +837,6 @@
 1082347609	DaRealRiddler
 1086362124	KhanyisaKunca
 1104521191	Duffy30Rock
-1104964417	TennalJennings
 1114710865	KevinAvelar9
 1139290069	RT2PROMO
 1160911416	victorio619
@@ -844,4 +844,3 @@
 1311340687	Yuntvjb
 1347546330	Irmgardscqt
 1377698544	JohnnieJODellJr
-1385996240	EstradoC

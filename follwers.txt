@@ -44,6 +44,7 @@
 14159823	kaoris
 14166407	benjohnston
 14255640	onyx
+14354179	Jiaaro
 14388850	aud
 14445416	Motherfucker
 14504451	kurtosis0
@@ -110,7 +111,6 @@
 24445650	MathildaB
 24486553	_anirudh
 24796299	AllyCatastrophe
-25266389	DarwinMonkey
 25462905	trinht
 25720832	cmagsaysay
 26195358	thinkingfish
@@ -203,7 +203,6 @@
 127875402	graficapirituba
 128172690	bettarih
 129216285	lamaladroite
-131244058	chbearstar
 132271308	RPGCrossing
 132749470	halcyoncorsair
 133463106	JanPettey
@@ -266,6 +265,7 @@
 201840328	CarolineDoodles
 201924865	yeimy_bonita
 204336271	pu3_muts
+205809049	sunfirstsolar
 209990601	aroel_steve
 210260338	cleoyorkie
 210643915	cryslove25
@@ -391,7 +391,6 @@
 310848076	KomangSoni
 311182343	p_paran
 311270726	merisande
-311789986	SFryeMS
 312587234	rosebloe
 313483561	AndreaAlvarez37
 313489571	zekalangon
@@ -838,9 +837,11 @@
 1086362124	KhanyisaKunca
 1104521191	Duffy30Rock
 1114710865	KevinAvelar9
+1116415974	WorkAtHomeJoe
 1139290069	RT2PROMO
 1160911416	victorio619
 1277860777	TheCasengoBlog
 1311340687	Yuntvjb
 1347546330	Irmgardscqt
 1377698544	JohnnieJODellJr
+1378146271	KORTULSGAMEROOM

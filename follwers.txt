@@ -165,6 +165,7 @@
 82730710	GuiOliveeiira
 82746374	backCode
 82946620	ageyho
+83746366	theadopted
 84996668	Robocop718
 85761507	ayu_hanamori
 86216086	cdecaro
@@ -737,7 +738,6 @@
 526122379	PriyaPriyaababu
 528682902	PlabanKabiraj
 529817556	twoffice
-530844107	debbiewoot
 530920988	prabu2kk
 535203094	hanifsdn4
 537469559	GrupoGamarj

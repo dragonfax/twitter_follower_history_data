@@ -158,7 +158,6 @@
 74162921	jhallevicharblo
 74291278	01
 74632709	IT_Voyager
-74960462	BlendAbout
 75966372	jimmy_dayak
 78154150	leftparen
 80618669	marianoaramburu
@@ -190,6 +189,7 @@
 106923681	OneTrueJakester
 107183046	bellabarbra
 107987746	teiji_tanjiro
+110798738	rmcanderson
 112418309	eleoy
 115614657	Sigitharyadi
 116168312	khan_mahbub
@@ -839,7 +839,6 @@
 1086362124	KhanyisaKunca
 1104521191	Duffy30Rock
 1114710865	KevinAvelar9
-1116415974	WorkAtHomeJoe
 1139290069	RT2PROMO
 1160911416	victorio619
 1277860777	TheCasengoBlog

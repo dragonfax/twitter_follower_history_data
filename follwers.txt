@@ -314,7 +314,7 @@
 254672539	a_alalyani
 254947030	mjshahani
 255432632	hamdiolacom
-256227869	VianeyLizet
+256227869	VianneyCRON
 257164199	faisisalmu
 257879063	Everplaces
 258400748	jco
@@ -517,7 +517,7 @@
 353772614	Dyll_1121
 353891250	LASKRI1965
 354244060	zayrallobrera
-354498549	KimVu1
+354498549	kimvu
 355362219	marisitigor
 356061056	SaffaSabilla
 356142102	EricaKatelyn

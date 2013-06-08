@@ -46,6 +46,7 @@
 14354179	Jiaaro
 14388850	aud
 14445416	Motherfucker
+14466466	lisachiu
 14504451	kurtosis0
 14508003	Trisha
 14579415	JonahLupton
@@ -137,7 +138,7 @@
 38708342	RobChiz
 38709825	bpratap
 39944506	beyonder23
-40793585	NurseCynch
+40793585	cyncharap
 41390637	roarm1953
 42936339	BrettLaffel
 45061189	h311b0y
@@ -816,7 +817,6 @@
 762382848	tueitp
 783416509	muslimakeel2
 805974721	Signe_CFO
-807240692	tanya_17_01
 818865392	movielaya
 838899566	ilovequotes87
 852578088	baiyangfu

@@ -14,7 +14,6 @@
 2848101	rmrf100
 4916901	mauriolg
 5209921	gakuueda
-6008322	janechin
 6025712	tia_marie
 6777502	LaughAtlantis
 7296332	jonverve
@@ -317,7 +316,6 @@
 254672539	a_alalyani
 254947030	mjshahani
 255432632	hamdiolacom
-256227869	VianneyCRON
 257164199	faisisalmu
 257879063	Everplaces
 258400748	jco

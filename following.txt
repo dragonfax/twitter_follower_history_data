@@ -44,6 +44,7 @@
 793130	rion
 795244	mattknox
 795649	rsarver
+806757	dshaw
 813345	binkitybonk
 814304	arielwaldman
 819797	episod
@@ -379,6 +380,7 @@
 26258446	jzhwu
 26272447	pixeliris
 26276791	nuttybrazilian
+26330898	rockbot
 26700363	LovingHut
 26925269	jojotastic
 27174184	RoastedKeyboard
@@ -428,6 +430,7 @@
 39944506	beyonder23
 41188469	RKHilbertSpace
 42559115	joshm
+42834380	flowdock
 42936339	BrettLaffel
 44024932	IndieCade
 44141752	Alice_Moran

@@ -150,6 +150,7 @@
 42936339	BrettLaffel
 45061189	h311b0y
 46153776	PaloAltoNtwks
+47802629	fionamator
 47809350	hallucin0jen
 49960147	dreasaez
 53757449	AdeTheux
@@ -179,7 +180,6 @@
 85761507	ayu_hanamori
 86216086	cdecaro
 86894150	HappyScience1
-87403396	alispagnola
 89367306	crocutax2
 91119650	Samu_tweetz
 91704031	_jden
@@ -222,7 +222,6 @@
 134048516	toyosrg
 134769695	limatigaempat
 134901077	capttwinky
-136047759	RandJjewelry
 138235096	RoamBurgers
 138671360	angie_bui
 139944110	vishrayne
@@ -246,6 +245,7 @@
 161497318	matt_maurer
 163315408	gregperezo1
 164003532	TD
+165584740	39THSTREETBOYZ
 166152937	lfiian
 168214020	andreapapibiz
 175161300	nanny4real
@@ -275,7 +275,6 @@
 192296106	bruno_martuccii
 192675984	GlasgowStarling
 193985442	Richard_JiaFeng
-195448724	Guyduk
 197303449	thachichetooz
 197550936	sachiog
 197977943	cadusinhomello
@@ -364,7 +363,6 @@
 277391955	happybirdy00
 278214737	tweepmobile
 279454175	Littha_Pratama
-279928396	story_cam
 281922694	asep_nugroho
 281969552	myrticeyxhsettl
 284161861	Ferk_0

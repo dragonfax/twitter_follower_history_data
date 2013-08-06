@@ -96,7 +96,6 @@
 5795832	nettatheninja
 5797422	MengTo
 5975622	cmar
-6008322	janechin
 6025712	tia_marie
 6040792	pythoncoders
 6124282	qubitsu
@@ -621,7 +620,7 @@
 254671341	cuttlewig
 258214567	HourSchool
 258400748	jco
-258688009	aheydari3
+258688009	ah
 259446460	monica
 260050510	jj
 261128446	MarkFlorentino
@@ -746,7 +745,6 @@
 785764172	githubstatus
 831894367	EmberWatch
 849879524	spacegeek
-851639881	SteelWoolGames
 857125658	chastity_v
 863215418	ideavim
 868186746	TheAndaley

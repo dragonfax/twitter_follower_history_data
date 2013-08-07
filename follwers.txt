@@ -72,7 +72,6 @@
 15471211	aviwarner
 15909607	leahthehunter
 16090023	danielauger
-16255362	iamshalin
 16281124	THISWILLWORK
 16487505	corey_latislaw
 16672915	flavianv
@@ -654,7 +653,6 @@
 409640973	ozhakikitwit
 409975137	timubanggo
 410316171	erik_maulana1
-411938009	Gusmx
 412093833	apurvashedge
 412715336	Celebrate
 413177929	ahme78

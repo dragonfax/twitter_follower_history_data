@@ -118,7 +118,6 @@
 24676904	Vanguard_space
 24796299	AllyCatastrophe
 24852226	idBloc
-25176264	aziob
 25462905	trinht
 25720832	cmagsaysay
 26195358	thinkingfish
@@ -127,7 +126,6 @@
 27269585	Matthew_Irby
 28841407	zhugef
 29096116	tanay
-29579390	audacious
 30055761	lxmaier
 30937949	oscartobar
 33406329	david95391
@@ -450,6 +448,8 @@
 327247249	elprenc_1000
 327356501	sumeetdhale1
 327403724	TwiterHelp
+327446211	AlberthaEttietx
+327462745	PortiaElvinapI7
 327677942	Danielbelen
 327693146	V4N1HL4iC3hax0r
 327944642	koladeseun
@@ -767,7 +767,6 @@
 552597820	saffa92893684
 552821525	hanifiMASACI
 553786376	heyme
-554610700	Anguitta99
 554894959	JavedHayath
 554968004	JericPalma
 555666510	Karlita105

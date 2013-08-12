@@ -14,7 +14,6 @@
 1609201	daxa
 2148071	danielbru
 2848101	rmrf100
-4412471	orvtech
 4916901	mauriolg
 5209921	gakuueda
 6025712	tia_marie

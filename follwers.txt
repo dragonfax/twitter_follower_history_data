@@ -129,6 +129,7 @@
 29096116	tanay
 30055761	lxmaier
 30937949	oscartobar
+31185085	dQualle
 33406329	david95391
 33443369	danmanganmusic
 34049901	aaronmfisher
@@ -360,7 +361,6 @@
 277391955	happybirdy00
 278214737	tweepmobile
 279454175	Littha_Pratama
-279928396	story_cam
 281922694	asep_nugroho
 281969552	myrticeyxhsettl
 284161861	Ferk_0
@@ -826,7 +826,6 @@
 805974721	Signe_CFO
 818865392	movielaya
 838899566	ilovequotes87
-852039852	uBiome
 852578088	baiyangfu
 867702739	BundleStars
 887389027	MelodyCrexendo

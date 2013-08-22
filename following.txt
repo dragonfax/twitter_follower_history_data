@@ -102,6 +102,7 @@
 6205402	Marsee
 6606312	ZVENTS
 6611482	peterpham
+6625762	aghassipour
 6641652	neongolden
 6777502	LaughAtlantis
 6814492	mrosas
@@ -147,6 +148,7 @@
 9897792	sfrocketdog
 9947032	marcosvm
 10209292	jessiesarah
+10284472	TechCocktail
 10291642	benefritz
 10483202	pamelafox
 10697412	vanessa_yanez_
@@ -219,6 +221,7 @@
 14861727	jdslatts
 14895312	ronpepsi
 14904098	leeb
+14927318	eboyle
 14934401	jreichhold
 14935037	drinkerthinker
 14941975	Zendesk
@@ -289,6 +292,7 @@
 16939148	delbius
 16985092	annielin
 17002567	EricaOyama
+17052674	JGPierson
 17089565	ShannAwesome
 17136315	Shopify
 17175988	ericmeltzer
@@ -300,6 +304,7 @@
 17450453	taylorharwin
 17454341	laura
 17469375	nancymar
+17493278	kellyhoffer
 17735909	labusque
 17790274	OneLouderApps
 17826951	amrithap
@@ -600,6 +605,7 @@
 221451535	leslieatwork
 222243634	PumaMat
 223422672	jo_liss
+228815097	Matty_SF
 228925627	Roach
 231316288	EvaGiselle
 231653886	Bexcitement

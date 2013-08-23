@@ -752,7 +752,7 @@
 761773632	KOmohundro
 785764172	githubstatus
 831894367	EmberWatch
-849879524	spacegeek
+849879524	SpaceGeek
 857125658	chastity_v
 863215418	ideavim
 868186746	TheAndaley

@@ -21,6 +21,7 @@
 6814492	mrosas
 7296332	jonverve
 7298252	aheywood
+7331292	htsh
 7482182	michaelzouzou
 7706292	devarispbrown
 8812232	chexee
@@ -52,6 +53,7 @@
 14504451	kurtosis0
 14508003	Trisha
 14579415	JonahLupton
+14645160	shwood
 14661635	ticketleap
 14847785	ajn
 14853852	primdahl
@@ -790,7 +792,7 @@
 593724458	VilsonDa
 594086618	ScoreTrade
 594977793	marcelo58721123
-595286024	NurseTanyaSam
+595286024	_TanyaSam
 597072397	keepyouharry
 597253054	mamunahmed1974
 598893819	Steven2Austin

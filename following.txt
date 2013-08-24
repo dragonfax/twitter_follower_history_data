@@ -48,11 +48,13 @@
 813345	binkitybonk
 814304	arielwaldman
 819797	episod
+820585	baratunde
 821958	DanaDanger
 855171	jfray
 875511	aprilini
 883301	grex
 914061	levie
+930061	ginatrapani
 956841	kampers
 957191	eqx1979
 964941	egd
@@ -113,6 +115,7 @@
 7234632	sachinrekhi
 7296332	jonverve
 7305682	bshine
+7331292	htsh
 7331992	MituK
 7383432	chelseymroos
 7456642	internetross
@@ -276,6 +279,7 @@
 16281124	THISWILLWORK
 16332380	giospirit
 16345873	skillsmatter
+16370073	alexjhancock
 16405975	wagenet
 16487505	corey_latislaw
 16500734	alaina
@@ -327,6 +331,7 @@
 18525171	tatiana
 18628850	grosser
 18638800	jessicahische
+18648505	gurevichalex
 18657690	kencheeto
 18756497	lamps
 18787589	bcardarella
@@ -662,6 +667,7 @@
 305449884	Shipandreceive
 308834979	PyCodeConf
 311270726	merisande
+312076607	SalimaNathoo
 312937997	Steam_Support
 317020994	pio
 320596481	supercow
@@ -740,7 +746,7 @@
 560571451	octodots
 571202103	Medium
 588716514	appacademyio
-595286024	NurseTanyaSam
+595286024	_TanyaSam
 603367602	evelynjlamb
 613870046	ARN_Bratton
 619687030	zoevkay

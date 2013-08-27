@@ -100,6 +100,7 @@
 19757487	papertigerss
 20019840	lookinafar
 20028099	sylvialam
+20169510	scottperket
 20189847	ramenlabs
 20611022	bfrank
 20799885	c2
@@ -518,7 +519,6 @@
 347587449	bunch_james
 348641374	ZullyArroCast
 348807584	Azizah_jackson
-349227445	Erene
 349821958	ddd
 350128256	birdfeeder
 350989061	nanlay
@@ -836,7 +836,6 @@
 933755203	LYKHANHCOLTD
 939189205	0549723149
 950519348	sacchan_valova1
-965069406	gamesyouloved
 971088972	amoomeudog
 978992113	nest_fan
 981938203	mofidulislam13

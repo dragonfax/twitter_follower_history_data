@@ -53,7 +53,6 @@
 14504451	kurtosis0
 14508003	Trisha
 14579415	JonahLupton
-14645160	shwood
 14661635	ticketleap
 14847785	ajn
 14853852	primdahl

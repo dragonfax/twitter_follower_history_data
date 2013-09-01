@@ -201,7 +201,7 @@
 102128021	LIFESTYLETASTE
 104993233	auroracobalt
 106738160	shoplosgatos
-106923681	OneTrueJakester
+106923681	KeairaIsMe
 107183046	bellabarbra
 107987746	teiji_tanjiro
 112418309	eleoy
@@ -814,7 +814,6 @@
 618139234	ffaa20121
 620056614	ThReal_Sofok
 620892263	ujjawalsngh30
-622375559	WillWS_
 624603881	Marceljs1
 624985160	rjbooose
 625665155	feheradesz

@@ -74,6 +74,7 @@
 15909607	leahthehunter
 16090023	danielauger
 16281124	THISWILLWORK
+16370073	alexjhancock
 16487505	corey_latislaw
 16672915	flavianv
 16750924	razzdango
@@ -726,6 +727,7 @@
 480945802	MichelleArendal
 481265444	berniescamp
 485458260	Jetlagin
+486064418	ZornTrader
 487611152	nderimgashi1
 488014092	FelippeFonseca_
 490209011	psypsoft
@@ -860,6 +862,6 @@
 1432766828	Knegafyf
 1467656408	StrangeLoopJerk
 1485841404	preetyboistyles
-1490368118	ThreatCloud
 1670467122	muhsin_gurafy
 1677243793	arya_rezpektor
+1729770229	avarivara

@@ -392,7 +392,6 @@
 26195358	thinkingfish
 26258446	jzhwu
 26272447	pixeliris
-26276791	nuttybrazilian
 26330898	rockbot
 26700363	LovingHut
 26925269	jojotastic

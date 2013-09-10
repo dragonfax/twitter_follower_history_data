@@ -238,7 +238,7 @@
 145958357	sumeetstweet
 147091051	magencubed
 147610025	andriirwanto
-149017116	bhelen_o8
+149017116	iamMalditaRhose
 150026277	kavanista
 151960313	anoop
 152004276	rockyboy60
@@ -793,7 +793,6 @@
 586810548	ghost
 588698487	beeghold101
 593724458	VilsonDa
-594086618	ScoreTrade
 594977793	marcelo58721123
 595286024	_TanyaSam
 597072397	keepyouharry

@@ -98,6 +98,7 @@
 5795832	nettatheninja
 5797422	MengTo
 5975622	cmar
+6008322	janechin
 6025712	tia_marie
 6040792	pythoncoders
 6124282	qubitsu
@@ -392,6 +393,7 @@
 26195358	thinkingfish
 26258446	jzhwu
 26272447	pixeliris
+26276791	nuttybrazilian
 26330898	rockbot
 26700363	LovingHut
 26925269	jojotastic
@@ -682,6 +684,7 @@
 339120848	memberly
 339775501	indieroyale
 341874816	wheatpond
+342712380	Lipglosslesbo
 344534295	Veggiedood
 345052370	dmoney
 345857577	oh_rodr

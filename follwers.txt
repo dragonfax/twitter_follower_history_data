@@ -264,7 +264,7 @@
 183601102	manishdeo2
 183978136	seifcapo99
 185255156	jingBords
-186086019	angel_sils2020
+186086019	roger_sils
 186757020	tsdeng
 187485145	mattalbabash
 187623689	ThugCity
@@ -728,7 +728,6 @@
 480945802	MichelleArendal
 481265444	berniescamp
 485458260	Jetlagin
-486064418	ZornTrader
 487611152	nderimgashi1
 488014092	FelippeFonseca_
 490209011	psypsoft
@@ -865,3 +864,4 @@
 1599515522	DarrellBrooksMD
 1670467122	muhsin_gurafy
 1677243793	arya_rezpektor
+1729770229	avarivara

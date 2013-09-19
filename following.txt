@@ -99,7 +99,6 @@
 5795832	nettatheninja
 5797422	MengTo
 5975622	cmar
-6008322	janechin
 6025712	tia_marie
 6040792	pythoncoders
 6124282	qubitsu

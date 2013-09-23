@@ -200,7 +200,6 @@
 98128496	amienall
 98232969	Zanet1
 100891819	q4od
-101245972	ZiggyNL
 102128021	LIFESTYLETASTE
 104993233	auroracobalt
 106738160	shoplosgatos
@@ -369,6 +368,7 @@
 278214737	tweepmobile
 279454175	Littha_Pratama
 279928396	story_cam
+281275514	RegMedCtrSJ
 281922694	asep_nugroho
 281969552	myrticeyxhsettl
 284161861	Ferk_0
@@ -616,6 +616,7 @@
 385821277	gerrykillms45
 386790740	cpgawron
 388066856	hastiti_atik
+388137565	AnnaTsoy
 388463005	wnl_ruan
 388648925	PaulDJarman
 389155788	NoShnacks
@@ -677,7 +678,7 @@
 422529607	de_ham
 423516111	JanetLantz
 425152866	princesmitanoor
-426635580	astridnivia
+426635580	AstridNivia
 428202889	HannettCole3
 432015269	vcritten
 433916063	sitikhadijahros

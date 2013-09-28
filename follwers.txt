@@ -366,7 +366,6 @@
 277391955	happybirdy00
 278214737	tweepmobile
 279454175	Littha_Pratama
-279928396	story_cam
 281922694	asep_nugroho
 281969552	myrticeyxhsettl
 284161861	Ferk_0
@@ -859,6 +858,7 @@
 1432766828	Knegafyf
 1467656408	StrangeLoopJerk
 1485841404	preetyboistyles
+1550978887	Paresh283
 1599515522	DarrellBrooksMD
 1670467122	muhsin_gurafy
 1677243793	arya_rezpektor

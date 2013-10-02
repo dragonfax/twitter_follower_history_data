@@ -553,6 +553,7 @@
 359952014	MarcosFansler
 360214033	twPei
 360250833	sre
+360928571	Frost_Cupcake
 361109762	nashwaabdalfdil
 361471363	Undrground_Band
 362460060	bree_i
@@ -647,7 +648,6 @@
 402209037	BrandonSug
 402668474	tatan_bmx
 403822534	elza_roza
-404751376	Jefh_Chaves
 405085711	jpmpopeye
 405180673	pschork
 405279730	paolithavilla

@@ -157,9 +157,11 @@
 10291642	benefritz
 10483202	pamelafox
 10697412	vanessa_yanez_
+10716292	exploratorium
 10859942	evygee
 10961632	wendyju
 11107172	alexismadrigal
+11132462	37signals
 11167502	humble
 11320942	wifelette
 11714442	timothy1ee
@@ -203,6 +205,7 @@
 14330980	puffins
 14339319	ginger
 14354179	Jiaaro
+14377870	MailChimp
 14388309	staugaard
 14388850	aud
 14391202	arsie
@@ -221,6 +224,7 @@
 14707266	evacide
 14738561	23andMe
 14743985	mattlatmatt
+14749606	Dropbox
 14769591	foxycar
 14828817	ana_checho
 14832461	CristinaPlana
@@ -264,6 +268,7 @@
 15471211	aviwarner
 15473717	katiesmillie
 15524875	SaraJChipps
+15527007	newrelic
 15602092	eartothenoise
 15603374	origiful
 15724351	samovarlife
@@ -272,6 +277,7 @@
 15829680	LusciousPear
 15851832	RubyInside
 15856400	TildeWill
+15907760	ybca
 15909607	leahthehunter
 15989423	garannm
 16017753	calacademy
@@ -321,6 +327,7 @@
 18061418	sodabrew
 18064968	ZendeskOps
 18082527	SF_FilmSociety
+18090088	deyoungmuseum
 18139160	randommood
 18150962	jessie33
 18154555	janeshin
@@ -358,10 +365,12 @@
 20189847	ramenlabs
 20513672	JoshTorres
 20537265	steeveage
+20611022	bfrank
 20799885	c2
 21165339	susanbellfilm
 21250892	SammanC
 21340176	BrianYeh
+21436561	TCHOchocolate
 21551747	go4it
 21652408	Kayako
 21954529	MartinStarr
@@ -401,6 +410,7 @@
 26700363	LovingHut
 26925269	jojotastic
 27174184	RoastedKeyboard
+27258509	Recchiuti
 27558636	kellyshalk
 28045502	strangeloop_stl
 28161405	BoobsRadley
@@ -425,6 +435,7 @@
 32384339	lightbombmike
 33344390	jackiesaik
 33406329	david95391
+33696409	Quora
 34040661	sofiaflevin
 34049901	aaronmfisher
 34616756	prades_maxime
@@ -558,6 +569,7 @@
 133085344	ShitMyDelSays
 134705572	sciencehackday
 134901077	capttwinky
+138235096	RoamBurgers
 138671360	angie_bui
 139944110	vishrayne
 140108433	angustweets

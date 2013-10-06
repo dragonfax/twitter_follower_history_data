@@ -618,7 +618,6 @@
 388137565	AnnaTsoy
 388463005	wnl_ruan
 388648925	PaulDJarman
-389155788	NoShnacks
 389347240	neelaka_sm
 389504706	mitukhatun37
 389907509	xhostplus

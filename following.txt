@@ -547,6 +547,7 @@
 104263660	mgale
 104993233	auroracobalt
 107234793	soyaric
+107238136	duolingo
 108822142	RachelMarescaa
 109973880	madeon
 111080162	kate_ting

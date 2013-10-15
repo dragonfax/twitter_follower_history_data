@@ -61,7 +61,6 @@
 14986129	irondavy
 14987054	tf
 15013405	sabrina
-15022241	copetersen
 15111848	lientm
 15112692	renocollective
 15202940	dbajoe
@@ -158,6 +157,7 @@
 47809350	hallucin0jen
 49960147	dreasaez
 53757449	AdeTheux
+55141136	vinzbee
 56488470	keller_jon
 56985871	GMTminus7
 59638618	misosoup
@@ -689,6 +689,7 @@
 448888257	zpju
 451112562	chasbattles
 451961534	khalid44144
+455205400	SMGradio
 457619060	soehtutnaing
 460918754	basS_AmriE
 461098685	omcurry
@@ -847,7 +848,6 @@
 1104521191	Duffy30Rock
 1114710865	KevinAvelar9
 1160911416	victorio619
-1192162278	NuggSocial
 1220353374	Shashank1989P
 1249843650	oasi48216
 1277860777	TheCasengoBlog

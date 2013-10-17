@@ -303,7 +303,7 @@
 226456292	babymath01
 227266326	JJJuuly
 228815097	Matty_SF
-228925627	Roach
+228925627	ROACH
 229701070	kumarajagadish
 231159782	Kurtis_golloher
 231327343	Jnike546
@@ -509,7 +509,6 @@
 343339845	NickySteichenQ7
 344493139	JayBarlas
 344534295	Veggiedood
-344661706	zarul_izham
 344725676	nadya_sihombing
 345087470	maulana_as
 345181990	agriajja
@@ -579,7 +578,7 @@
 373122065	pablo2om0
 373607576	kawan46
 373732146	akeh_ekmm
-374376373	nittaarvindmade
+374376373	nny_20
 374998315	ratna_fitriia
 376349370	edit_care
 376387097	estebitanio

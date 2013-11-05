@@ -679,7 +679,7 @@
 432015269	vcritten
 433916063	sitikhadijahros
 434377306	TweetsLast
-436749191	arie_BJ_netie
+436749191	bj_arie
 436817154	SoulSearching3
 439505190	hashlin26
 442666029	NoteradCom
@@ -793,7 +793,6 @@
 599669683	richardvrijland
 599978252	navilsmikey
 599997154	abod_520
-602062432	SpinGoEvents
 602122341	AttachedGF
 603133844	Brunodslsite
 603212542	1_zion

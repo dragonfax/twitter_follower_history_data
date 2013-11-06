@@ -205,7 +205,7 @@
 14274132	JPBarlow
 14320484	drewber
 14330980	puffins
-14339319	ginger
+14339319	gingeranyhow
 14354179	Jiaaro
 14377870	MailChimp
 14388309	staugaard
@@ -426,7 +426,6 @@
 30055761	lxmaier
 30343716	SF_emergency
 30793570	sfjulie
-30910268	viona
 30937949	oscartobar
 30994894	SFtonight
 31076244	anjkan
